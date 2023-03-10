@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Rattan</h1>
 <h3 align="center">A passionate programmer from India!</h3>
-<img align = "right" alt="Coding" width="250" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
+<img align = "right" alt="Coding" width="300" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-rattan&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-rattan" /> </p>
 
