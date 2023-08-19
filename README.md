@@ -32,8 +32,9 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Rattan&layout=compact&theme=tokyonight&locale=en )
 
+![](https://github-readme-stats.vercel.app/api?username=Ankit-Rattan&show_icons=true&theme=tokyonight&locale=en)
 
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Rattan&theme=dark&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-rattan&" alt="ankit-rattan" /></p>
 
