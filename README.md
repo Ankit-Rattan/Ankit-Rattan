@@ -35,5 +35,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Ankit-Rattan&show_icons=true&locale=en)
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Rattan&theme=dark&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Rattan&theme=dark)
 
