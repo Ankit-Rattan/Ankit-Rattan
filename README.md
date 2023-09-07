@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning **DSA and Web Development**
 
 - 📝 I regularly write articles on [https://hashnode.com/@rattanankit](https://hashnode.com/@rattanankit)
+- 📝 Medium Profile :  [https://medium.com/@rattan0209](https://medium.com/@rattan0209)
 
 - 💬 Ask me about **Programming language and Web Dev.**
 
