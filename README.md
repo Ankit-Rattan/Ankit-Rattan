@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-rattan&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-rattan" /> </p>
 
-- 🌱 I’m currently learning **AI-ML**
 
 - 📝 I regularly write articles on [https://hashnode.com/@rattanankit](https://hashnode.com/@rattanankit)
 - 📝 Medium Profile :  [https://medium.com/@rattan0209](https://medium.com/@rattan0209)
